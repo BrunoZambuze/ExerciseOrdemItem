@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\bin\Debug\net6.0\ExerciseOrder.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\bin\Debug\net6.0\ExerciseOrder.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\bin\Debug\net6.0\ExerciseOrder.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\bin\Debug\net6.0\ExerciseOrder.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\bin\Debug\net6.0\ExerciseOrder.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\ExerciseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\ExerciseOrder.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\ExerciseOrder.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\ExerciseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\ExerciseOrder.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\refint\ExerciseOrder.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\ExerciseOrder.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\ExerciseOrder.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseOrder\ExerciseOrder\obj\Debug\net6.0\ref\ExerciseOrder.dll
